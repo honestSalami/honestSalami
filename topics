@@ -1,0 +1,5 @@
+vis: align words
+vis: run a lua function
+vis: run key binding actions by themselves
+vis: map all non alphabetic shift dependent commands to something else
+vis: intro to mapping
