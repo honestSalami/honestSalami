@@ -1,5 +1,9 @@
 vis: align words
+ make selection, x/\{.+\}/ , TAB
 vis: run a lua function
 vis: run key binding actions by themselves
 vis: map all non alphabetic shift dependent commands to something else
 vis: intro to mapping
+
+orca: setup with pilot
+pilot: send a note directly
